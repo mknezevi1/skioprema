@@ -1,0 +1,10 @@
+c:\users\matijak\documents\visual studio 2010\Projects\skioprema\skioprema\bin\skioprema.dll
+c:\users\matijak\documents\visual studio 2010\Projects\skioprema\skioprema\bin\skioprema.pdb
+c:\users\matijak\documents\visual studio 2010\Projects\skioprema\skioprema\obj\Debug\skioprema.dll
+c:\users\matijak\documents\visual studio 2010\Projects\skioprema\skioprema\obj\Debug\skioprema.pdb
+C:\Users\matijak\Documents\Visual Studio 2010\Projects\skioprema\skioprema\obj\Debug\skioprema.csprojResolveAssemblyReference.cache
+C:\Users\Matija\Desktop\skioprema\skioprema\bin\skioprema.dll
+C:\Users\Matija\Desktop\skioprema\skioprema\bin\skioprema.pdb
+C:\Users\Matija\Desktop\skioprema\skioprema\obj\Debug\skioprema.csprojResolveAssemblyReference.cache
+C:\Users\Matija\Desktop\skioprema\skioprema\obj\Debug\skioprema.dll
+C:\Users\Matija\Desktop\skioprema\skioprema\obj\Debug\skioprema.pdb
